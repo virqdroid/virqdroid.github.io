@@ -27,70 +27,34 @@
         - title: Key Modules
           contents: Software Engineering (Java, C++), RDBMS II, Distributed Systems, Experts Systems, Project Management, Data Structure, Probability & Statistics, Communication & Telematics, MIS & E-Commerce
 
-- title: Experience
+- title: Work Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Head, Threat Intelligence Platforms
+      institution: Avast
+      year: July 2019 - Dec 2022
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Direct the development, long-term strategic planning and direction of Avast's unified internal (core) & public (APKLab.io) Threat Intelligence Platforms (TIPs) based on the needs of various stakeholders
+    - title: Head, Mobile Threats & Security
+      institution: Avast
+      year: Dec 2015 - Jul 2019
       description:
-        - Description 1.
-        - Description 2.
+        - Directed the development of our mobile threat intelligence platforms (internal & public) - APKLab.io - while focusing on big regions (Russia, China, and the US). The public version is now being used by more than 500 researchers globally and almost 2M user queries were processed.
+        - Guided geographically dispersed teams for new solutions and projects based on the latest advanced mobile threats, security concerns and academic research, to ensure that our users (50M+) will consistently receive state-of-the-art protection.
+        - Coordinated and negotiated procedures for the development and tuning of systems for OEM partnerships.
+        - Mentored and trained junior analysts in order to make sure that the team is up-to-date, focused on latest research topics by the mobile threat & security community.
+        - Optimized (feature selection, training and review)mobile machine learning models in-cooperation with data scientists 
+        - Build connections and exchanged knowledge with related companies at conferences, meet-ups.
+        - Published technical articles in the corporation's blog on latest mobile threats and security incidents.
+        - Attended NATO (CCDCOE) Cyber Coalition 2016 as a team leader and successfully completed mobile security-related exercises. 
+        - Conducted research on an automotive security related project, successfully reporting a bug to Tesla Motors
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Mobile Malware & Security Analyst
+      institution: Avast
+      year: Feb 2014 - Dec 2015
       description:
+        - Conducted reverse engineering, static analysis (IDA, Smali/Baksmali, JEB, JD) and dynamic analysis (Droidbox, Logcat, Wireshark, Fiddler, GikDbg) on binaries and handsets.
+        - Performed penetration testing and forensic analysis on handsets and smartwatches (Android)
+        - Developed internal solutions for faster generation of detections for mobile threats
+        - Created detection signatures and YARA rules for mobile threats.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
