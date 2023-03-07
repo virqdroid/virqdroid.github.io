@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /patents/
-title: Patents
+title: patents
 description: Patents in reversed chronological order
 years: 
 nav: true
