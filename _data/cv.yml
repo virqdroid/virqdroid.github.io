@@ -16,7 +16,7 @@
       institution: University of York, UK
       year: 2012-2013
       description:
-		- Thesis - Behavioral Analysis on Detection of Android Botnets
+	    - Thesis - Behavioral Analysis on Detection of Android Botnets
         - title: Key Modules
 		  contents: Identity, Trust, Reputation and their Applications, Cryptography Theory and Applications, Rigour in the Development of High Assurance Systems, Networks and Communications Security (Threats, Attacks and Countermeasures), Malware and Other Malfeasance
     - title: BSc (Hons), Computing
