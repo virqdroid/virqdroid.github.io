@@ -3,30 +3,27 @@
   contents:
     - name: Full Name
       value: Nikolaos Chrysaidos
-    - name: Date of Birth
-      value: 
     - name: Languages
       value: English, Greek
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MBA
+      institution: University of New York in Prague, CZ
+      year: 2022-2024
+    - title: MSc, Cybersecuirity
+      institution: University of York, UK
+      year: 2012-2013
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Key Modules - Identity, Trust, Reputation and their Applications, Cryptography Theory and Applications, Rigour in the Development of High Assurance Systems, Networks and Communications Security: Threats, Attacks and Countermeasures, Malware and Other Malfeasance
+        - Thesis - Behavioral Analysis on Detection of Android Botnets
+    - title: BSc (Hons), Computing
+      institution: Swansea University, UK
+      year: 2009-2012
       description:
-        - Description 1.
-        - Description 2.
+        - Key Modules - Software Engineering (Java, C++), RDBMS II, Distributed Systems, Experts Systems, Project Management, Data Structure, Probability & Statistics, Communication & Telematics, MIS & E-Commerce
+        - Thesis - Electronic Attendance - Electronic Attendance is both an ASP.NET web service and an Android mobile application, which focuses on the automatic registration of the student presence during lectures/classes.
 
 - title: Experience
   type: time_table
