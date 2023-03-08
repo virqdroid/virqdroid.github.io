@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2022-05-6 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Presentation at [CARO Workshop 2022](https://caro2022.jcweb.tech/agenda/) with topic `Researcher-Centered Threat Hunting Tooling`
