@@ -9,6 +9,25 @@ nav_order: 1
 ---
 <!-- _pages/publications.md -->
 ## Detecting suspicious application overlays on a device
+
+<div class="row mt-3">
+    <div class="col-md-auto mt-3 mt-md-0">
+        {% include figure.html path="assets/img/patents/US10846395-20201124-D00000.png" class="rounded z-depth-1" max-height=102 zoomable=true %}
+    </div>
+    <div class="col-md-auto mt-3 mt-md-0">
+        {% include figure.html path="assets/img/patents/US10846395-20201124-D00001.png" class="rounded z-depth-1" max-height=102 zoomable=true %}
+    </div>
+    <div class="col-md-auto mt-3 mt-md-0">
+        {% include figure.html path="assets/img/patents/US10846395-20201124-D00002.png" class="rounded z-depth-1" max-height=102 zoomable=true %}
+    </div>
+    <div class="col-md-auto mt-3 mt-md-0">
+        {% include figure.html path="assets/img/patents/US10846395-20201124-D00003.png" class="rounded z-depth-1" max-height=102 zoomable=true %}
+    </div>
+    <div class="col-md-auto mt-3 mt-md-0">
+        {% include figure.html path="assets/img/patents/US10846395-20201124-D00004.png" class="rounded z-depth-1" max-height=102 zoomable=true %}
+    </div>
+</div>
+
 `Patent Application Publication:` **US10846395B2**
 
 `Status:` **Granted**
@@ -24,6 +43,16 @@ nav_order: 1
 ---
 
 ## Malware family tracking and visualization across time
+
+<div class="row mt-3">
+    <div class="col-md-auto mt-3 mt-md-0">
+        {% include figure.html path="assets/img/patentMFM1.png" class="rounded z-depth-1" max-height=102 zoomable=true %}
+    </div>
+    <div class="col-md-auto mt-3 mt-md-0">
+        {% include figure.html path="assets/img/patentMFM2.png" class="rounded z-depth-1" max-height=102 zoomable=true %}
+    </div>
+</div>
+
 `Patent Application Publication:` **US20210019408A1**
 
 `Status:` **Pending**
