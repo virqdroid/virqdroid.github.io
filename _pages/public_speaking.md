@@ -16,7 +16,7 @@ nav_order: 1
 
 ## 2020
 
-`2020-01-28` [CTI2020 - Cyber Threat Intelligence Conference - 4th edition](https://web.archive.org/web/20201126234935/https://www.leadersinsecurity.org/events-old/icalrepeat.detail/2020/01/28/267/-/cti2020-cyber-threat-intelligence-conference-4th-edition.html) - Brussels, BE - `Tracking, evaluating & clustering Mobile Threats`
+`2020-01-28` [CTI2020 - Cyber Threat Intelligence Conference - 4th edition](https://web.archive.org/web/20201126234935/https://www.leadersinsecurity.org/events-old/icalrepeat.detail/2020/01/28/267/-/cti2020-cyber-threat-intelligence-conference-4th-edition.html) - Brussels, BE :belgium: - `Tracking, evaluating & clustering Mobile Threats`
 
 ---
 
