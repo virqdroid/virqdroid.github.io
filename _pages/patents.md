@@ -8,7 +8,9 @@ nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->
-## 1. Detecting suspicious application overlays on a device
+## Detecting suspicious application overlays on a device
+`Patent Application Publication:` **US10846395B2**
+
 `Status:` **Granted**
 
 `Date:`  **2020-11-24**
@@ -19,7 +21,11 @@ nav_order: 1
 
 > Systems and methods detect suspicious application overlays on a device. An overlay detection unit can detect if a first foreground application has been replaced, within a threshold amount of time, by a second foreground application. If the replacement time is below a threshold amount of time, a suspicious overlay detection can be triggered to alert the user to a possible phishing attempt by the second foreground application.
 
-## 2. Malware family tracking and visualization across time
+---
+
+## Malware family tracking and visualization across time
+`Patent Application Publication:` **US20210019408A1**
+
 `Status:` **Pending**
 
 `Date:`  -
