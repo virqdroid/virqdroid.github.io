@@ -24,7 +24,7 @@ category: work
 
 [APKLAB.io](https://apklab.io) is a **mobile threat intelligence platform** (MTIP) designed to provide the most relevant information for Android™ security researchers.
 
-It incorporateas reliable and **fast automatic classifiers** that examine every strain of malware, categorizing like with like, and creating a more complete picture of each particular malware family (all its variants, etc.). Built into the platform coherent analyses of both **static** and **dynamic** flow, meaning the MTIP also studies the behavior of every malware strain while it’s dormant as well as active [[2](https://blog.avast.com/mobile-threat-intelligence-with-apklab.io)].
+It incorporateas reliable and **fast automatic classifiers** that examine every malware strain, categorizing like with like, and creating a more complete picture of each particular malware family (all its variants, etc.). Built into the platform coherent analyses of both **static** and **dynamic** flow, meaning the MTIP also studies the behavior of every malware strain while it’s dormant as well as active [[2](https://blog.avast.com/mobile-threat-intelligence-with-apklab.io)].
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/65lqt5dUSC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
