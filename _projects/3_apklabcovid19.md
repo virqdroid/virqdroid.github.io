@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: APKLab.io Covid-19 CTI
+description: Mobile Covid-19 CTI
+img: assets/img/apklab/apklabcovid.png
+redirect: https://www.apklab.io/covid19
 importance: 3
 category: work
 ---
