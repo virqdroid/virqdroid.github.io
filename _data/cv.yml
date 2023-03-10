@@ -35,6 +35,10 @@
       year: July 2019 - Dec 2022
       description:
         - Direct the development, long-term strategic planning and direction of Avast's unified internal (core) & public (APKLab.io) Threat Intelligence Platforms (TIPs) based on the needs of various stakeholders
+        - Delivered the core internal threat intelligence platform (TIP) used by over 200 users, including data scientists, malware/threat analysts, hunters, and operators
+        - Focused mainly on stakeholders' threat uses-cases, in operations, threat intelligence, big data automation, and other internal research areas. Based on each use case the team developed new innovative solutions and features
+        - Unified and integrated services, from other teams, in the platform focused on one common UI/UX for everyone
+        - Standardized the service as the core platform for everyone to build their proof-of-concept (PoC) threat services
     - title: Head, Mobile Threats & Security
       institution: Avast
       year: Dec 2015 - Jul 2019
