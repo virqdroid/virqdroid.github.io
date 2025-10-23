@@ -12,6 +12,8 @@
     - title: MBA
       institution: University of New York in Prague, CZ
       year: 2022-2024
+      description:
+        - Thesis - Impact of Large Language Models (LLMs) and Agents in CyberSecurity
     - title: MSc, Cybersecurity
       institution: University of York, UK
       year: 2012-2013
@@ -30,29 +32,40 @@
 - title: Work Experience
   type: time_table
   contents:
+    - title: Independent Threat Intelligence & AI Red Teaming Consultant
+      institution: Independent Consultant
+      year: Sept 2024 - Now
+      description:
+        - Conducting threat modelling and TTP analysis for AI products, mapping realistic attacker goals, required capabilities, and likely impact vectors to inform risk-based defenses.
+        - Designing and executing comprehensive red-team engagements against large language models (LLMs), including adversarial prompt engineering, and scenario-based jailbreak testing to surface policy, safety, and logic bypasses.
+    - title: Head, Threat Intelligence & Defense
+      institution: Early-stage Cybersecurity Startup
+      year: May 2023 - Sept 2024
+      description:
+        - Reported directly to CTO and CEO, providing strategic leadership for OSINT and Engineering teams todeliver cutting-edge cybersecurity solutions for the Dark Web OSINT platform.
+        - Directed the development of the internal OSINT as a Service (OaaS) stack (crawling, processing, reporting)
+        - Conducted comprehensive Dark Web analysis and uncovered new breaches, leaks, and extracted vital threat intelligence data
+        - Identified and bridging intelligence gaps through the proposal and implementation of innovative tools and research initiatives
     - title: Head, Threat Intelligence Platforms
       institution: Avast
       year: July 2019 - Dec 2022
       description:
-        - Direct the development, long-term strategic planning and direction of Avast's unified internal (core) & public (APKLab.io) Threat Intelligence Platforms (TIPs) based on the needs of various stakeholders
-        - Delivered the core internal threat intelligence platform (TIP) used by over 200 users, including data scientists, malware/threat analysts, hunters, and operators
-        - Focused mainly on stakeholders' threat uses-cases, in operations, threat intelligence, big data automation, and other internal research areas. Based on each use case the team developed new innovative solutions and features
-        - Unified and integrated services, from other teams, in the platform focused on one common UI/UX for everyone
-        - Standardized the service as the core platform for everyone to build their proof-of-concept (PoC) threat services
+        - Directed the development and long-term strategic planning of Avast’s unified internal & public global threat intelligence platforms (TIPs). Delivered the core internal threat intelligence platform (TIP) used by over 200 users, including data scientists, malware/threat analysts, hunters, operators and SOC analysts.
+        - Focused on stakeholders' uses-cases, in operations, threat intelligence, big data automation, and other internal research areas. Based on each use case the team developed new solutions and features
+        - Unified and integrated services, from other teams, in the platform focused on one common UI/UX for everyone. Standardized it as the core platform for everyone to build their proof-of-concept (PoC) threat services, increasing innovation and reducing silos between teams.
+        - Lead the project planning and development of our STIX2.1/TAXII2.1 pipeline and mobile MITRE ATT&CK integration.
+        - Co-led the adoption, organization, and project planning of Objectives and Key Results (OKRs) in the CTO department, improving departments’ goal-setting, tracking, and decision-making.
     - title: Head, Mobile Threats & Security
       institution: Avast
       year: Dec 2015 - Jul 2019
       description:
-        - Directed the development of our mobile threat intelligence platforms (internal & public) - APKLab.io - while focusing on big regions (Russia, China, and the US). The public version is now being used by more than 500 researchers globally and almost 2M user queries were processed.
-        - Guided geographically dispersed teams for new solutions and projects based on the latest advanced mobile threats, security concerns and academic research, to ensure that our users (50M+) will consistently receive state-of-the-art protection.
+        - Directed the development of Avast’s mobile threat intelligence platforms (internal & public) - APKLab.io while focusing on threat intelligence on big regions (Russia, China, and the US). The public version is now being used by more than 500 researchers globally and almost 2M user queries were processed.
+        - Guided geographically dispersed teams for new solutions and projects based on the latest advanced mobile threats, security concerns, and academic research to ensure that our mobile users (50M+) will consistently receive state-of-the-art protection. Mentored and trained junior malware analysts to ensure the team was up-to-date and focused on the latest research & academic topics.
         - Coordinated and negotiated procedures for the development and tuning of systems for OEM partnerships.
-        - Mentored and trained junior analysts in order to make sure that the team is up-to-date, focused on latest research topics by the mobile threat & security community.
-        - Optimized (feature selection, training and review)mobile machine learning models in-cooperation with data scientists 
-        - Build connections and exchanged knowledge with related companies at conferences, meet-ups.
-        - Published technical articles in the corporation's blog on latest mobile threats and security incidents.
-        - Attended NATO (CCDCOE) Cyber Coalition 2016 as a team leader and successfully completed mobile security-related exercises. 
-        - Conducted research on an automotive security related project, successfully reporting a bug to Tesla Motors
-
+        - Optimized (feature selection, training, and review) mobile machine learning (ML) models in-cooperation with data scientists. Increasing, as a result, AV-TEST scores and awards.
+        - Built connections and exchanged knowledge with related companies at conferences and meet-ups that as a result drove the team to stay up to date with the latest industry developments.
+        - Published technical articles in the corporation's blog on the latest mobile threats and security incidents positioning the company as thought leader in the industry and increased media coverage from journalists and industry publications.
+        - Attended NATO (CCDCOE) Cyber Coalition 2016 as a team leader and completed mobile security-related exercises.
     - title: Mobile Malware & Security Analyst
       institution: Avast
       year: Feb 2014 - Dec 2015
